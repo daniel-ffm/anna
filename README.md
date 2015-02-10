@@ -1,1 +1,2 @@
-# anna
+# Anna - Actor Network Node Analyzer
+
